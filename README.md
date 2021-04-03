@@ -10,7 +10,7 @@ I bought an ergodone PCB on Aliexpress, K.T.E.C. Ver 1.3.
 
 This PCB uses an Arduino Pro Micro with a MEGA32U4 chip.
 
-You'll need to download : [MSYS2] (https://www.msys2.org/)
+You'll need to download : [MSYS2](https://www.msys2.org/)
 
 
 
