@@ -19,6 +19,7 @@ The excel file is a keymap generator, it is currently parametered for french bé
 ### Download all the tools :
 You'll need to download : 
 [MSYS2](https://www.msys2.org/), [qmk firmware](https://github.com/qmk/qmk_firmware.git) and [TKG](https://github.com/kairyu/tkg-toolkit)
+Both qmk and tkg can be found in this repository in case the other gets deleted... I hope it's not a problem...
 
 ### Installation guide :
 
