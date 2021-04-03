@@ -14,9 +14,6 @@ This PCB uses an Arduino Pro Micro with a MEGA32U4 chip.
 
 
 
-
-
-
 ```
 C:\WINDOWS\system32>cd C:\tkg-toolkit-master\windows\bin
 
