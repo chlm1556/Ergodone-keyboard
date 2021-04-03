@@ -6,7 +6,7 @@ For the whole proccess I used Windows.
 
 I bought an ergodone PCB on Aliexpress, K.T.E.C. Ver 1.3.
 
-Image
+<img src="Images/Ergodone.PNG" width="500" heigth="500">
 
 This PCB uses an Arduino Pro Micro with a MEGA32U4 chip.
 
