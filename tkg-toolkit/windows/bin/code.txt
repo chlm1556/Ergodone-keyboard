@@ -1,0 +1,1 @@
+hid_bootloader_cli -mmcu=atmega32u4 ergodone_test123.hex
