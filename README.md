@@ -11,6 +11,9 @@ I bought an ergodone PCB on Aliexpress, K.T.E.C. Ver 1.3.
 
 This PCB uses an Arduino Pro Micro with a MEGA32U4 chip.
 
+The excel file is a keymap generator, it is currently parametered for french bépo but it can be changed for any other language. 
+"There is an error on the layout 4, but I can't find out what's wrong..."
+
 ## Start of the tutorial :
 
 ### Download all the tools :
