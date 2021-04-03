@@ -132,3 +132,4 @@ C:\tkg-toolkit-master\windows\bin>hid_bootloader_cli -mmcu=atmega32u4 ergodone_t
 
 # Credits too :
 Manolo on the bepo forum.
+Kairyu for the tkg-toolkit
