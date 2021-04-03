@@ -13,7 +13,7 @@ This PCB uses an Arduino Pro Micro with a MEGA32U4 chip.
 You'll need to download : 
 [MSYS2](https://www.msys2.org/)
 and
-gh repo clone qmk/qmk_firmware
+[qmk firmware](https://github.com/qmk/qmk_firmware.git)
 
 
 
