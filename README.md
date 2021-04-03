@@ -1,5 +1,6 @@
 # Ergodone-keyboard
 
+## Introduction :
 
 This is a summary of what I had to do to flash my ergodone, this use various tutorial I could find online...
 For the whole proccess I used Windows.
@@ -10,11 +11,16 @@ I bought an ergodone PCB on Aliexpress, K.T.E.C. Ver 1.3.
 
 This PCB uses an Arduino Pro Micro with a MEGA32U4 chip.
 
+## Start of the tutorial :
+
+### Download all the tools :
 You'll need to download : 
 [MSYS2](https://www.msys2.org/), [qmk firmware](https://github.com/qmk/qmk_firmware.git) and [TKG](https://github.com/kairyu/tkg-toolkit)
 
+### Installation guide :
+
 Do not follow the instruction on the msys2 installation page.
-Once MSYS2 is installed you need to go in the folder where it was installed and launch "MSYS2 MinGW 64bits".
+Once MSYS2 is installed you need to go in the folder where it was installed and launch "MinGW 64bits".
 I recommend you put the qmk firmware in your user folder. At least I putted there (C:\Users\MY_NAME\qmk_firmware), but you can put it directly in the C:/ folder as it would be faster to type.
 
 Then you must type the following :
@@ -104,7 +110,7 @@ $ make ergodone:default
 
 
 
-
+## Flashing
 
 To enter the flashing mode for the ergodone you need to press to keys while plugging in the keyboard.
 
