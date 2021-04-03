@@ -4,7 +4,7 @@
 This is a summary of what I had to do to make my ergodone works, this use various tutorial I could find online...
 For the whole proccess I used Windows.
 
-I bought an ergodone PCB on Aliexpress, K.T.E.C. Ver 1.3.
+I bought an ergodone PCB on Aliexpress, K.T.E.C. Ver 1.3. 
 
 <img src="Images/Ergodone.PNG" width="500" heigth="500">
 
