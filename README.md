@@ -17,7 +17,8 @@ This PCB uses an Arduino Pro Micro with a MEGA32U4 chip.
 
 
 
-
+```
 C:\WINDOWS\system32>cd C:\tkg-toolkit-master\windows\bin
 
 C:\tkg-toolkit-master\windows\bin>hid_bootloader_cli -mmcu=atmega32u4 ergodone_test123.hex
+```
