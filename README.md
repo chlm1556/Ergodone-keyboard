@@ -14,7 +14,11 @@ This PCB uses an Arduino Pro Micro with a MEGA32U4 chip.
 
 
 To enter the flashing mode for the ergodone you need to press to keys while plugging in the keyboard.
-<img src="Images/Flashmode.PNG">
+
+<img src="Images/Flashmode.PNG" width="200" heigth="200">
+
+Once the keyboard is in flashing mode you can do the following instruction to upload the hex file to the micro controller.
+
 
 ```
 C:\WINDOWS\system32>cd C:\tkg-toolkit-master\windows\bin
