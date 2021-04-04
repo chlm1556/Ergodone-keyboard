@@ -115,7 +115,7 @@ $ make ergodone:default
 
 
 
-## Flashing
+## Flashing the ergodone
 
 To enter the flashing mode for the ergodone you need to press to keys while plugging in the keyboard.
 
