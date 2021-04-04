@@ -22,6 +22,8 @@ You'll need to download :
 
 Tkg can be found in this repository in case the other gets deleted... I hope it's not a problem...
 
+On the different tutorial I could find online you need to change de hid bootloader for it to work with windows. The TKG folder in this repository has had the change.
+
 ### Installation guide :
 
 Do not follow the instruction on the msys2 installation page.
