@@ -1,4 +1,4 @@
-# Ergodone-keyboard
+# Flashing an ergodone keyboard
 
 ## Introduction :
 
