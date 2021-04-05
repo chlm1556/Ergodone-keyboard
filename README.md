@@ -254,12 +254,14 @@ C:\Downloads\tkg-toolkit-master\windows\bin>hid_bootloader_cli -mmcu=atmega32u4 
 ```
 
 If you don't get any error at this point it means you've successfully flashed the ergodone. 
+
 If you get something like : "Unable to open device" it means your keyboard wasn't in flashing mode.
 
-Feel free to modify the Excel file to meet 
+Feel free to modify the Excel file to meet other languages or configuration, if you do I can add them to this repository. :) 
 
 
 # Credits too :
-Special thanks to Manolo on the [bepo forum](https://forum.bepo.fr/). (The excel was also made by him)
+
+Manolo on the [bepo forum](https://forum.bepo.fr/). (The excel was also made by him)
 
 Kairyu for the tkg-toolkit
