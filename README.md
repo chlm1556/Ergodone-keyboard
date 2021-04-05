@@ -250,7 +250,7 @@ Once the keyboard is in flashing mode you can do the following instruction to up
 
 
 ```
-C:\Downloads\tkg-toolkit-master\windows\bin>hid_bootloader_cli -mmcu=atmega32u4 ergodone_bepo.hex
+C:\Downloads\tkg-toolkit-master\windows\bin>hid_bootloader_cli -mmcu=atmega32u4 ergodone_bepo2.hex
 ```
 
 If you don't get any error at this point it means you've successfully flashed the ergodone. 
