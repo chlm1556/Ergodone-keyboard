@@ -242,12 +242,14 @@ To enter the flashing mode for the ergodone you need to press to keys while plug
 
 <img src="Images/Flashmode.PNG" width="500" heigth="500">
 
-Once the keyboard is in flashing mode you can do the following instruction to upload the hex file to the micro controller.
 
 You can check if the keyboard is in flashing mode by going the configuration panel and check for all devices. 
 
 In my case I could find this :
 <img src="Images/ergoflash.PNG" width="100" heigth="100">
+
+
+Once the keyboard is in flashing mode you can do the following instruction to upload the hex file to the micro controller.
 
 
 ```
