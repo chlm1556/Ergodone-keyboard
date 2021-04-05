@@ -247,7 +247,7 @@ Once the keyboard is in flashing mode you can do the following instruction to up
 You can check if the keyboard is in flashing mode by going the configuration panel and check for all devices. 
 
 In my case I could find this :
-<img src="Images/ergoflash.PNG" width="300" heigth="300">
+<img src="Images/ergoflash.PNG" width="100" heigth="100">
 
 
 ```
