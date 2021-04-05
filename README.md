@@ -139,10 +139,7 @@ Note that you may need to install a keyboard language on your computer for it to
 
 Here is an example of me doing it for a folder bepo2. Not that it takes a bit of time to generate the file.
 
-(You'll get stuck with this written on the command shell for a few seconds maybe minutes ? :
-
-QMK Firmware 0.12.20
-Making ergodone with keymap bepo2 )
+(You'll get stuck with this written on the command shell for a few seconds maybe minutes ? : QMK Firmware 0.12.20 )
 
 ```
 $ make ergodone:bepo2
@@ -247,6 +244,11 @@ To enter the flashing mode for the ergodone you need to press to keys while plug
 <img src="Images/Flashmode.PNG" width="500" heigth="500">
 
 Once the keyboard is in flashing mode you can do the following instruction to upload the hex file to the micro controller.
+
+You can check if the keyboard is in flashing mode by going the configuration panel and check for all devices. 
+
+In my case I could find this :
+<img src="Images/ergoflash.PNG" width="300" heigth="300">
 
 
 ```
