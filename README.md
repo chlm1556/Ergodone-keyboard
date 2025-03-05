@@ -263,7 +263,7 @@ If you get something like : "Unable to open device" it means your keyboard wasn'
 Feel free to modify the Excel file to meet other languages or configuration, if you do I can add them to this repository. :) 
 
 
-# Credits too :
+# Credits to :
 
 Manolo on the [bepo forum](https://forum.bepo.fr/). (The excel was also made by him)
 
