@@ -2,7 +2,7 @@
 
 ## Introduction :
 
-This is a summary of what I had to do to flash my ergodone, this use various tutorial I could find online...
+This is a summary of what I had to do to flash my ergodone, this use various tutorial I could find online as none would work out of the box...
 For the whole proccess I used Windows.
 
 I bought an ergodone PCB on Aliexpress, K.T.E.C. Ver 1.3. 
